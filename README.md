@@ -1,5 +1,5 @@
-# PythonScriptsForSQLite
-Some pythons scripts to manipulate SQLite databases
+# Python scripts for SQLite databases
+Some python scripts to manipulate SQLite databases
 
 ## MergeDatabasesWithSameName.py
 
